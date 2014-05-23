@@ -4,4 +4,4 @@ build_script:
 environment:
   XUNIT_TEST_VISITOR: Xunit.KRuntime.AppVeyor
 artifacts:
-  - artifacts/bin/Xunit.KRuntime.AppVeyor.*.nupkg
+  - path: artifacts/bin/Xunit.KRuntime.AppVeyor.*.nupkg
